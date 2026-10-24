@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "Maria OLiveira",
+        "turma": "2026 M1",
+        "idade": "20 anos",
+        "info": "informações dos usuários"
+    },
+    {
+        "nome": "Bananildo da Silva",
+        "turma": "2026 M1",
+        "idade": "67 anos",
+        "info": "informações dos usuários"
+    },
+    {
+        "nome": "Davi Grabriel",
+        "turma": "2026 1n2",
+        "idade": "114 anos",
+        "info": "informações dos usuários"
+    },
+    {
+        "nome": "Felipe Portugal",
+        "turma": "2026 1N2",
+        "idade": "99 anos",
+        "info": "informações dos usuários"
+    }
+]
